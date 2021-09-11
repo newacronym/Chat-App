@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841125905529",
+    "firebase_url": "https://chatapp-96b7b.firebaseio.com",
+    "project_id": "chatapp-96b7b",
+    "storage_bucket": "chatapp-96b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841125905529:android:3bfd3221b5e86e969500a8",
+        "android_client_info": {
+          "package_name": "com.harshit.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841125905529-6gjs2tv8bt0gof4etmc6a710ors9uicb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClgXWy4evYUp_OzTEfXRgcHqVTT3UuJRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841125905529-6gjs2tv8bt0gof4etmc6a710ors9uicb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
